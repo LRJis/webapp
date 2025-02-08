@@ -1,4 +1,4 @@
-#!/root/web/env/bin/python3
+#!/root/webapp/web/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
